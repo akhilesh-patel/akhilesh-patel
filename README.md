@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div id="header" align="center">
-  <center><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div></center>
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
  <img src="https://ih1.redbubble.net/image.2281713785.7800/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" width="200" height="200">
 <h1><span class="blink">Stay Safe and Stay healthy:❤</span></h1>
