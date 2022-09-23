@@ -1,10 +1,7 @@
 ### Hi there 👋
-
 <!--
 **akhilesh-patel/akhilesh-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,9 +26,14 @@ Here are some ideas to get you started:
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  <img src="https://ih1.redbubble.net/image.2281713785.7800/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" width="200" height="200">
 <h1><span class="blink">Stay Safe and Stay healthy:❤</span></h1>
-<center><img src="https://miro.medium.com/max/640/0*bm2fZ40mT5ikg660.gif" width="100"/></center>
+<img src="https://miro.medium.com/max/640/0*bm2fZ40mT5ikg660.gif" width="100"/>
 
 </div>
+<img src="https://miro.medium.com/max/640/0*bm2fZ40mT5ikg660.gif" width="100"/>
+<center><img src="https://miro.medium.com/max/640/0*bm2fZ40mT5ikg660.gif" width="100"/></center>
+
+<div>
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -49,5 +50,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
- 
