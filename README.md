@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 </div>
 <img src="https://miro.medium.com/max/640/0*bm2fZ40mT5ikg660.gif" width="100"/>
+<center><img src="https://miro.medium.com/max/640/0*bm2fZ40mT5ikg660.gif" width="100"/></center>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
