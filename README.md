@@ -2,9 +2,6 @@
 
 <!--
 **akhilesh-patel/akhilesh-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 Here are some ideas to get you started:
 
@@ -19,3 +16,6 @@ Here are some ideas to get you started:
 -->
  <img src="https://ih1.redbubble.net/image.2281713785.7800/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" width="200" height="200">
  <marquee><h1><span class="blink">Stay Safe and Stay healthy:❤</span></h1></marquee
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
