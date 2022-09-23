@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img src="https://ih1.redbubble.net/image.2281713785.7800/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg" width="200" height="200">
- <marquee><h1><span class="blink">Stay Safe and Stay healthy:❤</span></h1></marquee
+ <marquee><h1><span class="blink"><marquee>Stay Safe and Stay healthy:❤</marquee></span></h1></marquee
