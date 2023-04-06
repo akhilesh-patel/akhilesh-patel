@@ -1,13 +1,4 @@
-### Hi there 👋
-<div align="center">
-  <img src="https://github.com/akhilesh-patel/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Akhilesh and I like Devops Tools" src="images/personal_note.svg" />
-  <br />
-  <br />
 
-</div>
 <h1>Working Progress.</h1>
 <!--
 **akhilesh-patel/akhilesh-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
