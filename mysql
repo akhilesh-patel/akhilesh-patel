@@ -1,0 +1,66 @@
+Install mysql 5.7 on ubuntu  server 
+.............................................................................................................................................................
+sudo apt update
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.12-1_all.deb
+sudo dpkg -i mysql-apt-config_0.8.12-1_all.deb //Ubuntu bionic - Mysql server & cluster - mysql 5-7 - ok
+
+sudo apt-get update
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 467B942D3A79BD29
+sudo apt install -f mysql-client=5.7* mysql-community-server=5.7* mysql-server=5.7*  //pass123
+
+clone https://github.com/Tariqu/database_connection_php.git
+
+CREATE USER 'akhil'@'%' IDENTIFIED BY 'pass123';
+GRANT ALL PRIVILEGES ON * . * TO 'akhil'@'%';
+FLUSH PRIVILEGES;
+
+create table login (name varchar(30), passwd varchar(30))
+
+insert into login value("akhil", "akhilesh123");
+
+..............................................................................................................................................................
+
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.12-1_all.deb
+sudo dpkg -i mysql-apt-config_0.8.12-1_all.deb
+sudo apt update
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 467B942D3A79BD29
+sudo apt update
+sudo apt-cache policy mysql-server
+sudo apt install -f mysql-client=5.7* mysql-community-server=5.7* mysql-server=5.7*
+sudo mysql_secure_installation
+mysql -u root -p
+
+..............................................................................................................................................................
+
+How to Install phpMyAdmin on Ubuntu
+apt update && upgrade
+apt install phpmyadmin php-mbstring php-gettext
+phpenmod mbstring
+vim /etc/apache2/apache2.conf
+Add:
+Include /etc/phpmyadmin/apache.conf
+systemctl restart apache2
+http://ip/phpmyadmin
+.............................................................................................................................................................
+
+How to install MySQL and Workbench on Ubuntu 20.04 ( Localhost )
+
+sudo apt update
+sudo ufw enable
+sudo ufw allow mysql
+sudo systemctl start mysql
+sudo snap install mysql-workbench-community
+
+sudo apt install ./mysql-workbench-community_8.0.19-1ubuntu19.10_amd64.deb
+
+
+
+
+
+..............................................................................................................................................
+mysql -u root -p
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Password123#@!';
+FLUSH PRIVILEGES;
+
+
+php artisan serve --host 0.0.0.0 --port 8080
