@@ -3,8 +3,7 @@
 🚀 **DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD**  
 
 📍 Gurugram, Haryana
-✉️ akhilpatel2121@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-patel-ap)  
+✉️ akhilpatel2121@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-patel-ap)  
 
 ---
 
