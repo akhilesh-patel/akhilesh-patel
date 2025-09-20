@@ -2,8 +2,7 @@
 
 🚀 **DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD**  
 
-📍 Gurugram, Haryana  
-📞 +91 7619740746  
+📍 Gurugram, Haryana
 ✉️ akhilpatel2121@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-patel-ap)  
 
