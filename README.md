@@ -9,8 +9,7 @@
 ---
 
 ## 🧑‍💻 Professional Summary  
-DevOps Engineer with **4+ years of experience** in automating deployments, building CI/CD pipelines, and managing cloud-native infrastructure. Skilled in **AWS, Kubernetes, Docker, Terraform, Jenkins, and observability stacks** (Prometheus, Grafana, Loki, SigNoz).  
-Passionate about automation, monitoring, and security compliance to ensure **scalable, reliable, and secure deployments**.  
+DevOps Engineer with **4+ years of experience** in automating deployments, building CI/CD pipelines, and managing cloud-native infrastructure. Skilled in **AWS, Kubernetes, Docker, Terraform, Jenkins, and observability stacks** (Prometheus, Grafana, Loki, SigNoz). Passionate about automation, monitoring, and security compliance to ensure **scalable, reliable, and secure deployments**.  
 
 ---
 
