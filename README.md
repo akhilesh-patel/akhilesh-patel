@@ -9,8 +9,7 @@
 ---
 
 ## 🧑‍💻 Professional Summary  
-DevOps Engineer with **4+ years of experience** in automating deployments, building CI/CD pipelines, and managing cloud-native infrastructure.  
-Skilled in **AWS, Kubernetes, Docker, Terraform, Jenkins, and observability stacks** (Prometheus, Grafana, Loki, SigNoz).  
+DevOps Engineer with **4+ years of experience** in automating deployments, building CI/CD pipelines, and managing cloud-native infrastructure. Skilled in **AWS, Kubernetes, Docker, Terraform, Jenkins, and observability stacks** (Prometheus, Grafana, Loki, SigNoz).  
 Passionate about automation, monitoring, and security compliance to ensure **scalable, reliable, and secure deployments**.  
 
 ---
@@ -89,7 +88,7 @@ Rajasthan Technical University, Kota (2017 – 2021)
 ## 🚀 CI/CD & Automation Workflow  
 
 <p align="center">
-  <img src="https://miro.medium.com/1*1mYyliE8xO9v1xoAqmfHtA.gif" alt="CI/CD Workflow" width="800" />
+  <img src="https://miro.medium.com/1*1mYyliE8xO9v1xoAqmfHtA.gif" alt="CI/CD Workflow" width="700" />
 </p>  
 
 <p align="center">
