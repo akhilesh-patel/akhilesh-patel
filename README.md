@@ -86,14 +86,16 @@ Rajasthan Technical University, Kota (2017 – 2021)
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 CI/CD & Automation Workflow  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-patel&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/akhilesh-patel/akhilesh-patel/main/assets/devops-cicd.png" alt="CI/CD Workflow" width="800" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh-patel&theme=tokyonight" alt="GitHub streak" />
+  <b>Code → Build → Test → Deploy → Monitor → Feedback</b>
 </p>  
+
 
 ---
 
